@@ -1,4 +1,4 @@
-# soy_rico
+# WhoAmIApp
 
 A new Flutter project.
 
