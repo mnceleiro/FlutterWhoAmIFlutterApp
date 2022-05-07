@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-class ImRichPage extends StatelessWidget {
-  const ImRichPage({Key? key}) : super(key: key);
+class ImRichView extends StatelessWidget {
+  const ImRichView({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
