@@ -8,15 +8,15 @@ App destinada a la resolución de varios ejercicios en uno del curso de Flutter 
 - Pantalla de carta de presentación.
 
 ## Página inicial
-![Página inicial](screenshots/who_am_i.png)
+![Página inicial](doc/screenshots/who_am_i.png)
 
 ## Barra de navegación
-![Barra de navegación](screenshots/nav_drawer.png)
+![Barra de navegación](doc/screenshots/nav_drawer.png)
 
 ## Carta de presentación
-![Carta de presentación](screenshots/about_me.png)
+![Carta de presentación](doc/screenshots/about_me.png)
 
 ## Pantallas sencillas
-![Soy rico](screenshots/rich.png)
-![Soy rico](screenshots/poor.png)
-![Soy rico](screenshots/professor.png)
+![Soy rico](doc/screenshots/rich.png)
+![Soy rico](doc/screenshots/poor.png)
+![Soy rico](doc/screenshots/professor.png)
