@@ -1,18 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:soy_rico/components/basic/who_am_i_appbar.dart';
-import 'package:soy_rico/components/who_am_i_drawer.dart';
+import 'package:soy_rico/model/entities/status.dart';
+import 'package:soy_rico/views/who_am_i_parent_view.dart';
 
-class ImPoorView extends StatelessWidget {
-  const ImPoorView({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: Image.asset(
-        "images/icon_poor.png",
-        width: 300,
-        height: 300,
-      ),
-    );
-  }
+class ImPoorView extends WhoAmIParentView {
+  const ImPoorView(Status status, {Key? key}) : super(status, key: key);
 }

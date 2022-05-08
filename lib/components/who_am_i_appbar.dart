@@ -6,7 +6,7 @@ class WhoAmIAppBar extends StatelessWidget with PreferredSizeWidget {
   @override
   Widget build(BuildContext context) {
     return AppBar(
-      title: const Text('Yo soy rico'),
+      title: const Text('Who Am I?'),
       backgroundColor: const Color(0xFFf44336),
     );
   }

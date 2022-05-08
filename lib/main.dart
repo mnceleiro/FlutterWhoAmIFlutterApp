@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:soy_rico/views/main_view.dart';
 
-import 'components/basic/who_am_i_appbar.dart';
+import 'components/who_am_i_appbar.dart';
 import 'components/who_am_i_drawer.dart';
 
 void main() {

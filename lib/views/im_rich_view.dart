@@ -1,16 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:soy_rico/model/entities/status.dart';
+import 'package:soy_rico/views/who_am_i_parent_view.dart';
 
-class ImRichView extends StatelessWidget {
-  const ImRichView({Key? key}) : super(key: key);
-
-  @override
-  Widget build(BuildContext context) {
-    return Center(
-      child: Image.asset(
-        "images/icon_rich.png",
-        width: 300,
-        height: 300,
-      ),
-    );
-  }
+class ImRichView extends WhoAmIParentView {
+  const ImRichView(Status status, {Key? key}) : super(status, key: key);
 }
